@@ -1,0 +1,20 @@
+Ticker,Attributes,DirErr,RMSE
+ADDYY,"['High', 'Low', 'Open', 'Day']",44.72,4.43864540383051
+ADDYY,"['High', 'Low', 'Day']",45.53,4.598028233485714
+ADDYY,"['High', 'Low', 'Open']",45.53,5.694180774676704
+ADDYY,"['High', 'Low']",46.34,10.09987766582463
+ADDYY,"['High', 'Low', 'EPS', 'Day']",45.53,6.657080674925117
+ADDYY,['High'],46.34,5.4708602680542135
+ADDYY,"['High', 'Low', 'Open', 'Day', 'IR']",43.9,5.219053004436407
+ADDYY,"['High', 'Low', 'EPS', 'Day', 'IR']",46.34,6.883104615504873
+ADDYY,"['High', 'Low', 'IR']",47.15,5.590931573628594
+ADDYY,"['High', 'Low', 'Day', 'IR']",44.72,4.581132853411362
+ADDYY,"['High', 'Low', 'Open', 'EPS', 'Day', 'PercentChange']",52.85,6.171610941664028
+ADDYY,"['High', 'Low', 'Open', 'Day', 'PercentChange']",49.59,4.727443879919276
+ADDYY,"['High', 'Low', 'Day', 'PercentChange']",50.41,8.968764678699142
+ADDYY,"['High', 'Low', 'Open', 'PercentChange']",48.78,5.978670644812446
+ADDYY,"['High', 'Low', 'Day', 'IR', 'PercentChange']",51.22,3.92428049846566
+ADDYY,"['High', 'Low', 'Open', 'EPS', 'Day', 'IR', 'PercentChange']",51.22,9.63473867773912
+ADDYY,"['High', 'Low', 'Open', 'Day', 'IR', 'PercentChange']",50.41,3.647799103865336
+ADDYY,"['High', 'Low', 'EPS', 'Day', 'IR', 'PercentChange']",49.59,3.8206274897648322
+ADDYY,"['High', 'Low', 'IR', 'PercentChange']",47.97,4.164041124335426
