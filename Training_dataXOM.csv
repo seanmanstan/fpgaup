@@ -1,0 +1,6 @@
+Ticker,Attributes,DirErr,RMSE,Training_Time
+XOM,"['High', 'Low', 'Open', 'Day', 'Close']",54.59,4.232894534879177,
+XOM,"['High', 'Low', 'Day', 'Close']",57.49,3.3750071481867994,
+XOM,"['High', 'Low', 'Open', 'Close']",56.04,2.9475751487284327,
+,,,,2022-10-29 13:33:37.682338
+,,,,2022-10-29 14:12:52.150363

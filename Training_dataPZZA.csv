@@ -1,0 +1,6 @@
+Ticker,Attributes,DirErr,RMSE,Training_Time
+PZZA,"['High', 'Low', 'Open', 'Day', 'Close']",47.34,4.109944752439143,
+PZZA,"['High', 'Low', 'Day', 'Close']",47.83,6.394986411416982,
+PZZA,"['High', 'Low', 'Open', 'Close']",47.34,6.364927644806601,
+,,,,2022-10-29 11:27:21.301124
+,,,,2022-10-29 11:42:07.179626

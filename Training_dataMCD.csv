@@ -1,0 +1,6 @@
+Ticker,Attributes,DirErr,RMSE,Training_Time
+MCD,"['High', 'Low', 'Open', 'Day', 'Close']",53.62,19.233431689001048,
+MCD,"['High', 'Low', 'Day', 'Close']",55.07,7.737272989926989,
+MCD,"['High', 'Low', 'Open', 'Close']",57.49,7.332222634173193,
+,,,,2022-10-29 12:01:48.673868
+,,,,2022-10-29 12:26:19.971328

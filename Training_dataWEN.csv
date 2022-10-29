@@ -1,0 +1,6 @@
+Ticker,Attributes,DirErr,RMSE,Training_Time
+WEN,"['High', 'Low', 'Open', 'Day', 'Close']",49.28,0.6890727249378409,
+WEN,"['High', 'Low', 'Day', 'Close']",48.79,0.6109398860582695,
+WEN,"['High', 'Low', 'Open', 'Close']",47.83,1.1288582913181489,
+,,,,2022-10-29 11:42:08.208924
+,,,,2022-10-29 12:01:47.626810

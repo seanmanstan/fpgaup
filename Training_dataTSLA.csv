@@ -1,0 +1,6 @@
+Ticker,Attributes,DirErr,RMSE,Training_Time
+TSLA,"['High', 'Low', 'Open', 'Day', 'Close']",54.11,31.20935452470933,
+TSLA,"['High', 'Low', 'Day', 'Close']",53.14,63.403652384720466,
+TSLA,"['High', 'Low', 'Open', 'Close']",51.69,26.986601121189025,
+,,,,2022-10-29 12:26:20.940177
+,,,,2022-10-29 12:41:06.275635
